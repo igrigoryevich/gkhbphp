@@ -1,3 +1,3 @@
 <?php
     echo '<h1>Hello GeekHub!</h1>';
-    echo 'new footer';
+    echo '<h1>New footer</h1>';
