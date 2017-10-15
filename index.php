@@ -1,3 +1,3 @@
 <?php
-    echo '<h1>New Bar</h1>';
+    echo '<h2>New Bar</h2>';
     echo '<h1>Hello GeekHub!</h1>';
